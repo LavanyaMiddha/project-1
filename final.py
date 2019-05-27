@@ -97,6 +97,4 @@ frame5.place(relx=0.5,rely=0.65,relwidth=0.6,relheight=0.1,anchor='n')
 label2=tk.Label(frame5,bg='white',font=('MV Boli',16))
 label2.place(relwidth=1,relheight=1)
 
-play()
-
 root.mainloop()
